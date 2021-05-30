@@ -2,6 +2,8 @@
 
 SERVER RUNS ON PORT 3000
 
-run yarn to install deps.
+json-server burgers.json to run server in /server
 
-json-server burgers.json to run server
+npm start to run react in /front
+
+site runs on http://localhost:3001/
